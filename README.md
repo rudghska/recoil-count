@@ -11,7 +11,7 @@
 
 - [state, setState] = useRecoilState(state) (useState처럼 사용 하면 된다 setState로 값 변경도 가능)
 - useRecoilValue(state)
-  > 값을 변경 하는 hooks (setter)
+> 값을 변경 하는 hooks (setter)
 - setState = useSetRecoilState(state)
 
 일단 이정도.. 코드가 더 깔끔해 진듯 하다
